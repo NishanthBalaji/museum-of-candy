@@ -1,1 +1,3 @@
 # museum-of-candy
+
+This website, designed using Bootstrap, is fully responsive and adapts seamlessly to various screen sizes. It features a sleek and modern design dedicated to the "Museum of Candy." The navigation bar at the top is also responsive, providing easy access to sections like Home, About, and Tickets. The homepage showcases vibrant and playful visuals, including images of sweets and a catchy repeating background text, "MUSEUM OF CANDY." The use of pastel colors and clean typography gives the site a fun and engaging feel, perfect for attracting candy enthusiasts and visitors interested in a unique museum experience.
