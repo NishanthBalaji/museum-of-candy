@@ -1,11 +1,13 @@
 body {
     background-color: #f5d9d5;
     font-family: "Nunito", sans-serif;
+    width: 100vw;
 }
 
 #mainNav {
     font-size: 1.5rem;
     font-weight: 300;
+    background-color: #C2EBF9
 }
 
 #mainNav .navbar-brand {
@@ -18,4 +20,29 @@ body {
 
 #mainNav .nav-link:hover {
     color: #ea1c2c;
+}
+
+
+h1 span {
+    color: #ea1c2c;
+}
+
+h1 {
+    font-size: 4vw;
+    line-height: 1.2;
+    font-weight: 300;
+    color: white;
+}
+
+h2 {
+    color: #ea1c2c;
+    font-size: 2em;
+    font-weight: 100;
+}
+
+p {
+    color: #f5a0dde3;
+    font-size: 1.3em;
+    font-weight: 100;
+
 }
